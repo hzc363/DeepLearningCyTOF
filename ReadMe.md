@@ -4,7 +4,7 @@
 <center>Zicheng Hu, Ph.D.</center><br/>
 <center>Research Scientist</center><br/>
 <center>ImmPort Team</center><br/>
-<center>The Unversity of California, San Francisco</center><br/>
+<center>The Unversity of California, San Francisco</center><br/><br/>
 
 This GitHub repository contains a tutorial for creating deep learning models tailored to CyTOF data. We will also apply the deep learning model to diagnose latent cytomegalovirus (CMV) infection.
 
