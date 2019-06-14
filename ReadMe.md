@@ -7,8 +7,7 @@
 <center>Research Scientist</center>
 <center>ImmPort Team</center>
 <center>The Unversity of California, San Francisco</center>
-```html
-
+```
 
 This GitHub repository contains a tutorial for creating deep learning models tailored to CyTOF data. We will also apply the deep learning model to diagnose latent cytomegalovirus (CMV) infection.
 
