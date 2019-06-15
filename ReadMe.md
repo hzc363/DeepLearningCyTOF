@@ -8,5 +8,5 @@
 
 This GitHub repository contains a tutorial for creating deep learning models tailored to CyTOF data and applying the model to diagnose latent cytomegalovirus (CMV) infection.
 
-* Please open the DeepLearning_CyTOF.ipynb Jupyter Notebook for the main tutorial. 
-* Please see the script in FCS_to_Array folder for detailed preprocessing steps of CyTOF data. 
+* Please open the [DeepLearning_CyTOF.ipynb](https://github.com/hzc363/DeepLearningCyTOF/blob/master/DeepLearning_CyTOF.ipynb) Jupyter Notebook for the main tutorial. 
+* Please see the script in [FCS_to_Array folder](https://github.com/hzc363/DeepLearningCyTOF/tree/master/FCS_to_Array) for detailed preprocessing steps of the CyTOF data. 
