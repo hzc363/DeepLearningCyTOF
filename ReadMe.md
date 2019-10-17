@@ -10,12 +10,12 @@
 This GitHub repository contains a tutorial for creating deep learning models tailored to CyTOF data. We will apply the model to diagnose latent cytomegalovirus (CMV) infection. We will also use a decision tree-based method to identify cell subsets that are associated with the CMV infection. 
 
 ### Install dependencies
-Create conda environment with dependencies for the tutorial: 
+Navigate into the tutorial folder. Create conda environment with dependencies for the tutorial: 
 
 ```conda create --name CyTOF_DL --file requirements.txt```
 
 ### Main tutorial
-Navigate into the tutorial folder. Run the main tutorial [DeepLearning_CyTOF.ipynb](https://github.com/hzc363/DeepLearningCyTOF/blob/master/DeepLearning_CyTOF.ipynb):
+Run the main tutorial [DeepLearning_CyTOF.ipynb](https://github.com/hzc363/DeepLearningCyTOF/blob/master/DeepLearning_CyTOF.ipynb):
 
 ```jupyter notebook DeepLearning_CyTOF.ipynb```
 
