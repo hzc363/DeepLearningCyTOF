@@ -15,6 +15,10 @@ Navigate into the tutorial folder. Create conda environment with dependencies fo
 ```conda create --name CyTOF_DL --file requirements.txt```
 
 ### Main tutorial
+Activate the conda environment.
+
+```conda activate CyTOF_DL```
+
 Run the main tutorial [DeepLearning_CyTOF.ipynb](https://github.com/hzc363/DeepLearningCyTOF/blob/master/DeepLearning_CyTOF.ipynb):
 
 ```jupyter notebook DeepLearning_CyTOF.ipynb```
