@@ -11,10 +11,12 @@ This GitHub repository contains a tutorial for creating deep learning models tai
 
 ### Install dependencies
 Create conda environment with dependencies for the tutorial: 
+
 ```conda create --name CyTOF_DL --file requirements.txt```
 
 ### Main tutorial
 Navigate into the tutorial folder. Run the main tutorial [DeepLearning_CyTOF.ipynb](https://github.com/hzc363/DeepLearningCyTOF/blob/master/DeepLearning_CyTOF.ipynb):
+
 ```jupyter notebook DeepLearning_CyTOF.ipynb```
 
 ### CyTOF data processing
