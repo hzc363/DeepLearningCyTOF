@@ -18,6 +18,6 @@ This GitHub repository contains a tutorial for creating deep learning models tai
 	- seaborn (>= 0.7.1)
 	- tensorflow (>= 1.13.1)
 	- sklearn (>= 0.21.3)
-	- pydotplus.
+	- pydotplus (>= 2.0.2).
 * Please see the script in [FCS_to_Array folder](https://github.com/hzc363/DeepLearningCyTOF/tree/master/FCS_to_Array) for detailed preprocessing steps of the CyTOF data. 
 * For more background information of deep learning and its use in cytometry data, see the [slides](https://github.com/hzc363/DeepLearningCyTOF/blob/master/FOCIS_deeplearning.pdf) of the FOCIS 2019 workshop. 
