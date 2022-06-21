@@ -1,7 +1,7 @@
 python==3.6.7
 Keras==2.2.4
 Pandas==0.24.2
-numpy==1.16.4
+numpy==1.22.0
 matplotlib==3.1.1
 seaborn==0.9.0
 tensorflow==1.13.1
