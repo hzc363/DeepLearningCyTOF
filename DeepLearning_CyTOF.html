@@ -13177,7 +13177,7 @@ div#notebook {
 <span class="n">tutorial_files</span> <span class="o">=</span> <span class="o">!</span> ls Data
 <span class="k">if</span> <span class="s2">&quot;allData.obj&quot;</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">tutorial_files</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Downloading Data:&quot;</span><span class="p">)</span>
-    <span class="o">!</span> wget https://storage.googleapis.com/deep_learning_cytof/allData.obj -P ./Data
+    <span class="o">!</span> wget https://figshare.com/ndownloader/files/38918480 -P ./Data
         
 <span class="c1">#load data</span>
 <span class="n">allData</span> <span class="o">=</span> <span class="n">pickle</span><span class="o">.</span><span class="n">load</span><span class="p">(</span> <span class="nb">open</span><span class="p">(</span> <span class="s2">&quot;Data/allData.obj&quot;</span><span class="p">,</span> <span class="s2">&quot;rb&quot;</span> <span class="p">)</span> <span class="p">)</span>
